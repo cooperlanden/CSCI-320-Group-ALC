@@ -14,3 +14,4 @@ All parts of the project were worked on together in the computer lab however we 
 
 Project 5- Alec, Luke, Cooper
 
+Initially the main file we worked on was the dining_philosophers.c file that we created to solve the first problem in the project. Cooper and Alec worked on creating that file that created synchronization between the philosohpers and when they wait, think, and eat. Luke created and implemented the file called barbershop.c that solves the section part of the project. Although, all members worked on different portions of the project, as a whole we helped each other with troubleshooting and overcoming errors in our code.
